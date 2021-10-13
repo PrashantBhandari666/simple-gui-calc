@@ -4,7 +4,6 @@
 # |                          Author : Prashant Bhandari                           |
 # +-------------------------------------------------------------------------------+
 
-
 import tkinter as t
 import tkinter.font as tkFont
 
